@@ -1,0 +1,195 @@
+[
+    {
+        "question": "What is VMware vSphere?",
+        "options": ["A virtualization platform", "A network management tool", "A storage solution", "A cloud computing service"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the role of ESXi in VMware vSphere?",
+        "options": ["It is a virtual machine", "It is a hypervisor", "It is a storage protocol", "It is a network switch"],
+        "answers": [1]
+    },
+    {
+        "question": "What is vCenter Server in VMware?",
+        "options": ["A storage solution", "A virtual machine", "A centralized management tool", "A network switch"],
+        "answers": [2]
+    },
+    {
+        "question": "What is the purpose of vMotion in VMware vSphere?",
+        "options": ["To move virtual machines across hosts without downtime", "To manage virtual networks", "To provide high availability for virtual machines", "To manage storage"],
+        "answers": [0]
+    },
+    {
+        "question": "What is VMware vSAN?",
+        "options": ["A virtualization platform", "A network management tool", "A storage solution", "A cloud computing service"],
+        "answers": [2]
+    },
+    {
+        "question": "What is the role of disk groups in VMware vSAN?",
+        "options": ["They provide network connectivity", "They provide storage for virtual machines", "They manage virtual machine migration", "They provide high availability"],
+        "answers": [1]
+    },
+    {
+        "question": "What is the purpose of storage policies in VMware vSAN?",
+        "options": ["To manage network settings", "To manage virtual machine migration", "To manage storage performance and availability", "To manage virtual machine snapshots"],
+        "answers": [2]
+    },
+    {
+        "question": "What is the role of the vSAN datastore?",
+        "options": ["It provides network connectivity", "It provides storage for virtual machines", "It manages virtual machine migration", "It provides high availability"],
+        "answers": [1]
+    },
+    
+        {
+            "question": "What is the role of the Distributed Resource Scheduler (DRS) in VMware vSphere?",
+            "options": ["It balances computing workloads with available resources", "It provides network connectivity", "It provides storage for virtual machines", "It manages virtual machine migration"],
+            "answers": [0]
+        },
+        {
+            "question": "What is a Datastore in VMware?",
+            "options": ["A storage location for virtual machine files", "A network switch", "A virtual machine", "A hypervisor"],
+            "answers": [0]
+        },
+        {
+            "question": "What is the purpose of VMware NSX?",
+            "options": ["To provide network virtualization and security", "To provide storage for virtual machines", "To manage virtual machine migration", "To balance computing workloads"],
+            "answers": [0]
+        },
+        {
+            "question": "What is the role of the vSphere Client?",
+            "options": ["It provides network connectivity", "It provides a user interface for managing vSphere", "It provides storage for virtual machines", "It manages virtual machine migration"],
+            "answers": [1]
+        },
+        {
+            "question": "What is the purpose of VMware vRealize Operations?",
+            "options": ["To provide network virtualization", "To provide storage for virtual machines", "To manage virtual machine migration", "To provide intelligent operations management from applications to infrastructure"],
+            "answers": [3]
+        },
+        {
+            "question": "What is the role of Fault Tolerance in VMware vSphere?",
+            "options": ["It provides continuous availability for virtual machines in the event of server failures", "It provides network connectivity", "It provides storage for virtual machines", "It manages virtual machine migration"],
+            "answers": [0]
+        },
+        {
+            "question": "What is VMware Horizon?",
+            "options": ["A network management tool", "A virtual desktop and applications platform", "A storage solution", "A cloud computing service"],
+            "answers": [1]
+        },
+        {
+            "question": "What is the purpose of VMware vRealize Automation?",
+            "options": ["To automate the delivery of personalized infrastructure, applications and custom IT services", "To provide network virtualization", "To provide storage for virtual machines", "To manage virtual machine migration"],
+            "answers": [0]
+        },
+        {
+            "question": "What is the role of the vSphere Distributed Switch in VMware vSphere?",
+            "options": ["It provides network connectivity for virtual machines and control of network configurations", "It provides storage for virtual machines", "It manages virtual machine migration", "It balances computing workloads"],
+            "answers": [0]
+        },
+        {
+            "question": "What is the purpose of VMware vRealize Suite?",
+            "options": ["To provide network virtualization", "To provide storage for virtual machines", "To manage virtual machine migration", "To provide a comprehensive cloud management platform"],
+            "answers": [3]
+        },
+        
+            {
+                "question": "What is the purpose of VMware vRealize Log Insight?",
+                "options": ["To provide network virtualization", "To provide real-time log management and log analysis", "To provide storage for virtual machines", "To manage virtual machine migration"],
+                "answers": [1]
+            },
+            {
+                "question": "What is the role of the vSphere Update Manager in VMware vSphere?",
+                "options": ["It provides network connectivity", "It provides storage for virtual machines", "It manages the patch and version management of ESXi hosts, virtual machines, and vApps", "It manages virtual machine migration"],
+                "answers": [2]
+            },
+            {
+                "question": "What is the purpose of VMware vRealize Network Insight?",
+                "options": ["To provide network virtualization and security analytics", "To provide storage for virtual machines", "To manage virtual machine migration", "To balance computing workloads"],
+                "answers": [0]
+            },
+            {
+                "question": "What is the role of the vSphere Auto Deploy in VMware vSphere?",
+                "options": ["It allows to provision hundreds of physical hosts with ESXi software", "It provides network connectivity", "It provides storage for virtual machines", "It manages virtual machine migration"],
+                "answers": [0]
+            },
+            {
+                "question": "What is the purpose of VMware vRealize Code Stream?",
+                "options": ["To provide network virtualization", "To provide storage for virtual machines", "To manage virtual machine migration", "To provide release automation and continuous delivery"],
+                "answers": [3]
+            },
+            {
+                "question": "What is the role of the vSphere Replication in VMware vSphere?",
+                "options": ["It provides network connectivity", "It provides an virtual machine data replication for disaster recovery", "It provides storage for virtual machines", "It manages virtual machine migration"],
+                "answers": [1]
+            },
+            {
+                "question": "What is the purpose of VMware vRealize Business for Cloud?",
+                "options": ["To provide automated cloud costing, usage, comparison, and planning", "To provide network virtualization", "To provide storage for virtual machines", "To manage virtual machine migration"],
+                "answers": [0]
+            },
+            {
+                "question": "What is the role of the vSphere Web Client in VMware vSphere?",
+                "options": ["It provides network connectivity", "It provides a user interface for managing vSphere", "It provides storage for virtual machines", "It manages virtual machine migration"],
+                "answers": [1]
+            },
+            {
+                "question": "What is the purpose of VMware vRealize Orchestrator?",
+                "options": ["To provide network virtualization", "To provide storage for virtual machines", "To manage virtual machine migration", "To provide IT process automation"],
+                "answers": [3]
+            },
+            {
+                "question": "What is the role of the vSphere Lifecycle Manager in VMware vSphere?",
+                "options": ["It provides network connectivity", "It provides storage for virtual machines", "It manages the lifecycle of ESXi hosts", "It manages virtual machine migration"],
+                "answers": [2]
+            },
+            {
+                "question": "What is the purpose of VMware Cloud Foundation?",
+                "options": ["To provide an integrated cloud infrastructure (compute, storage, networking, and security) and cloud management services", "To provide network virtualization", "To provide storage for virtual machines", "To manage virtual machine migration"],
+                "answers": [0]
+            },
+            {
+                "question": "What is the role of the vSphere Trust Authority in VMware vSphere?",
+                "options": ["It provides network connectivity", "It provides storage for virtual machines", "It manages virtual machine migration", "It provides a mechanism to establish trust between the workload and the infrastructure"],
+                "answers": [3]
+            },
+            {
+                "question": "What is the purpose of VMware Site Recovery Manager?",
+                "options": ["To provide network virtualization", "To provide storage for virtual machines", "To provide disaster recovery and business continuity", "To manage virtual machine migration"],
+                "answers": [2]
+            },
+            {
+                "question": "What is the role of the vSphere Bitfusion in VMware vSphere?",
+                "options": ["It provides network connectivity", "It provides a mechanism to pool and share GPU resources", "It provides storage for virtual machines", "It manages virtual machine migration"],
+                "answers": [1]
+            },
+            {
+                "question": "What is the purpose of VMware Tanzu Kubernetes Grid?",
+                "options": ["To provide network virtualization", "To provide a consistent, upstream compatible, Kubernetes substrate across SDDC, public cloud, and edge", "To provide storage for virtual machines", "To manage virtual machine migration"],
+                "answers": [1]
+            },
+            {
+                "question": "What is the role of the vSphere Content Library in VMware vSphere?",
+                "options": ["It provides network connectivity", "It provides storage for virtual machines", "It manages virtual machine migration", "It provides a centralized repository that provides management of VM templates, vApps, ISO images, and scripts"],
+                "answers": [3]
+            },
+            {
+                "question": "What is the purpose of VMware Cloud on AWS?",
+                "options": ["To provide network virtualization", "To provide storage for virtual machines", "To manage virtual machine migration", "To provide an integrated cloud offering jointly developed by AWS and VMware"],
+                "answers": [3]
+            },
+            {
+                "question": "What is the role of the vSphere Proactive HA in VMware vSphere?",
+                "options": ["It provides network connectivity", "It provides storage for virtual machines", "It manages virtual machine migration", "It provides a mechanism to detect hardware conditions of a host and evacuate the VMs before the issue leads to an outage"],
+                "answers": [3]
+            },
+            {
+                "question": "What is the purpose of VMware Cloud on Dell EMC?",
+                "options": ["To provide network virtualization", "To provide storage for virtual machines", "To manage virtual machine migration", "To provide a fully managed VMware Cloud service that is delivered to customer's on-premises data center or edge locations"],
+                "answers": [3]
+            },
+            {
+                "question": "What is the role of the vSphere Persistent Memory in VMware vSphere?",
+                "options": ["It provides network connectivity", "It provides storage for virtual machines", "It manages virtual machine migration", "It provides a new type of memory called Persistent Memory (PMem)"],
+                "answers": [3]
+            }
+        ]
+        
